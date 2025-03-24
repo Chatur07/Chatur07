@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vikhyat Chaturvedi</h1>
-<h3 align="center">👨‍💻 Developer | 🔧 Building Solutions | 🌱 Exploring New Technologies | 🌍 Contributor to Open Source</h3>
+<h3 align="center">👨‍💻 Coder | 🔧 Building Projects | 🌱 Exploring New Technologies | 🌍 Contributor to Open Source</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chatur07&label=Profile%20views&color=0e75b6&style=flat" alt="chatur07" /> </p>
+
+- 🌱 I’m currently learning **Data Analysis**
+
+- 📫 How to reach me **vikhyatchaturvedi0931@gmail.com**
+
+- ⚡ Fun fact **The first ever computer bug was a real bug—a moth found stuck in a Harvard Mark II computer in 1947! 🦋💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
