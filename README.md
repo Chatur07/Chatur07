@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikhyat Chaturvedi</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chatur07" alt="chatur07" /></a> </p>
+<h3 align="center">I am a passionate Computer Science Engineering student with a strong foundation in programming, algorithms, and software development. I am eager to apply my skills in real-world projects and explore emerging technologies like artificial intelligence, cybersecurity, and cloud computing. Currently, I am enhancing my expertise in languages like Python, Java, and C++, along with frameworks such as React and Node.js. I enjoy problem-solving, competitive coding, and working on innovative projects that have a meaningful impact.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
