@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikhyat Chaturvedi</h1>
 <h3 align="center">👨‍💻 Coder | 🔧 Building Projects | 🌱 Exploring New Technologies | 🌍 Contributor to Open Source</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chatur07&label=Profile%20views&color=0e75b6&style=flat" alt="chatur07" /> </p>
+/*<p align="left"> <img src="https://komarev.com/ghpvc/?username=chatur07&label=Profile%20views&color=0e75b6&style=flat" alt="chatur07" /> </p>*/
 
 - 🌱 I’m currently learning **Data Analysis**
 
