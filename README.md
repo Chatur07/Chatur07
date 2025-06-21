@@ -2,7 +2,6 @@
 <h3 align="center">👨‍💻 Coder | 🔧 Building Projects | 🌱 Exploring New Technologies | 🌍 Contributor to Open Source</h3>
 
 
-- 🌱 I’m currently learning **Data Analysis**
 
 - 📫 How to reach me **vikhyatchaturvedi0931@gmail.com**
 
